@@ -1,0 +1,6 @@
+{
+  "name": "Hotel Shivoy Palace & V2 Restaurant",
+  "description": "A premium hotel and restaurant demo website suitable for Vercel deployment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
